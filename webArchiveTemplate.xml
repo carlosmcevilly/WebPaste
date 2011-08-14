@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>WebMainResource</key>
+  <dict>
+   <key>WebResourceData</key>
+   <data>
+    REPLACE_WITH_ENCODED_DATA
+   </data>
+   <key>WebResourceFrameName</key>
+   <string></string>
+   <key>WebResourceMIMEType</key>
+   <string>text/html</string>
+   <key>WebResourceTextEncodingName</key>
+   <string>UTF-8</string>
+   <key>WebResourceURL</key>
+   <string>about:blank</string>
+  </dict>
+ </dict>
+</plist>

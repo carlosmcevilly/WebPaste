@@ -1,0 +1,15 @@
+# files to ignore
+.DS_Store
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+build
+build/*
+*~
+Icon?
+*.mode*
+*.pbxuser
+xcuserdata
+*.xcuserdatad
+*.perspective 
+*.perspectivev3
+*~.nib/
